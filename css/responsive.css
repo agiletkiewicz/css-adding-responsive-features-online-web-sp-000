@@ -31,7 +31,7 @@ body {
   top: 72px;
 }
   
-article p {
+.col-3 p {
     column-count: 2;  
   }
 }
