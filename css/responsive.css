@@ -56,5 +56,11 @@ body {
     margin-left: 0;
   }
   
+  .col-1 p {
+    width: 100%;
+    float: none;
+    margin-left: 0;
+  }
+  
 }
 
