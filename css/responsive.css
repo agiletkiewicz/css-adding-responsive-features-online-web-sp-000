@@ -30,5 +30,8 @@ body {
   position: absolute;
   top: 72px;
 }
-
+  
+article p {
+    column-count: 2;  
+  }
 }
