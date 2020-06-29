@@ -34,4 +34,8 @@ body {
 .col-3 p {
     column-count: 2;  
   }
+  
+  .col-2 p {
+    column-count: 2;  
+  }
 }
